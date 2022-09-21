@@ -2779,7 +2779,7 @@ Testimonials Area CSS
 .single-testimonials-card .info-item-box {
   position: relative;
   margin-top: 25px;
-  padding-left: 72px;
+  /* padding-left: 72px; */
 }
 
 .single-testimonials-card .info-item-box img {
@@ -4705,7 +4705,7 @@ Page Banner Area CSS
 }
 
 .page-banner-area.bg-3 {
-  background-image: url(../images/page-banner/banner-bg-3.jpg);
+  background-image: url(../images/about/about-main.png);
 }
 
 .page-banner-area.bg-4 {
