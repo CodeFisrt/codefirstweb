@@ -4713,7 +4713,7 @@ Page Banner Area CSS
 }
 
 .page-banner-area.bg-5 {
-  background-image: url(../images/page-banner/banner-bg-5.jpg);
+  background-image: url(../images/contact.png);
 }
 
 .page-banner-area.bg-6 {
@@ -4724,7 +4724,7 @@ Page Banner Area CSS
 .page-banner-content h2 {
   font-size: 70px;
   margin-bottom: 20px;
-  color: var(--white-color);
+  color: #030303;
 }
 
 .page-banner-content ul {
@@ -4764,7 +4764,7 @@ Page Banner Area CSS
 
 .page-banner-content ul li a {
   display: block;
-  color: #CDC4D9;
+  color: black;
   -webkit-transition: var(--transition);
   transition: var(--transition);
 }
