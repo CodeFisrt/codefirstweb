@@ -65,8 +65,8 @@
                     <div class="main-responsive-menu">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/images/logo.gif" class="black-logo" alt="image">
-                                <img src="assets/images/logo.gif" class="white-logo" alt="image">
+                                <img src="assets/images/logo.png" class="black-logo" alt="image">
+                                <img src="assets/images/logo.png" class="white-logo" alt="image">
                             </a>
                         </div>
                     </div>
@@ -77,8 +77,8 @@
                 <div class="container-fluid">
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/logo.gif" class="black-logo" alt="image">
-                            <img src="assets/images/logo.gif" class="white-logo" alt="image">
+                            <img src="assets/images/logo.png" class="black-logo" alt="image">
+                            <img src="assets/images/logo.png" class="white-logo" alt="image">
                         </a>
 
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -135,17 +135,34 @@
 
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services-style-1.html" class="nav-link">Services Style One</a>
-                                        </li>
+                                            <a href="services-style-2.php" class="nav-link">Services Style One</a>
+                                        <!-- </li>
                                         <li class="nav-item">
                                             <a href="services-style-2.html" class="nav-link">Services Style Two</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="services-details.html" class="nav-link">Services Details</a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </li>
 
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                     Programming
+                                        <i class="ri-arrow-down-s-line"></i>
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="courses.php" class="nav-link">Industrial Training</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="services-style-2.html" class="nav-link">Outsourcing</a>
+                                        </li>
+                                
+                                    </ul>
+                                </li>
                                 <!-- <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             Pages 
@@ -319,13 +336,15 @@
                                         </li>
                                     </ul>
                                 </li>
-
+                                <li class="nav-item">
+                                    <a href="career.php" class="nav-link">Careers</a>
+                                </li>
                                 <!-- <li class="nav-item">
                                         <a href="pricing.html" class="nav-link">Pricing</a>
                                     </li> -->
 
                                 <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact</a>
+                                    <a href="contact.php" class="nav-link">Contact</a>
                                 </li>
                             </ul>
 
@@ -411,8 +430,8 @@
 
                 <div class="modal-body">
                     <a href="index.html">
-                        <img src="assets/images/logo.gif" class="black-logo" alt="image">
-                        <img src="assets/images/logo.gif" class="white-logo" alt="image">
+                        <img src="assets/images/logo.png" class="black-logo" alt="image">
+                        <img src="assets/images/logo.png" class="white-logo" alt="image">
                     </a>
                     <div class="sidebar-content">
                         <h3>About Us</h3>
@@ -420,7 +439,7 @@
                             labore et dolore magna aliqua.</p>
 
                         <div class="sidebar-btn">
-                            <a href="contact.html" class="default-btn">Let’s Talk</a>
+                            <a href="contact.php" class="default-btn">Let’s Talk</a>
                         </div>
                     </div>
                     <div class="sidebar-contact-info">
