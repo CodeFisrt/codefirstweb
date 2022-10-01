@@ -128,14 +128,14 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="services-style-2.php" class="nav-link">
                                         Services
-                                        <i class="ri-arrow-down-s-line"></i>
+                                        <!-- <i class="ri-arrow-down-s-line"></i> -->
                                     </a>
 
-                                    <ul class="dropdown-menu">
+                                    <!-- <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services-style-2.php" class="nav-link">Services Style One</a>
+                                            <a href="services-style-2.php" class="nav-link">Services Style One</a> -->
                                         <!-- </li>
                                         <li class="nav-item">
                                             <a href="services-style-2.html" class="nav-link">Services Style Two</a>
@@ -143,7 +143,7 @@
                                         <li class="nav-item">
                                             <a href="services-details.html" class="nav-link">Services Details</a>
                                         </li> -->
-                                    </ul>
+                                    <!-- </ul> -->
                                 </li>
 
 
@@ -293,9 +293,9 @@
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         Blog
-                                        <i class="ri-arrow-down-s-line"></i>
+                                        <!-- <i class="ri-arrow-down-s-line"></i> -->
                                     </a>
-                                    <ul class="dropdown-menu">
+                                    <!-- <ul class="dropdown-menu">
                                         <li class="nav-item">
                                             <a href="blog-style-1.html" class="nav-link">Blog Style One</a>
                                         </li>
@@ -334,7 +334,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li class="nav-item">
                                     <a href="career.php" class="nav-link">Careers</a>
@@ -435,8 +435,10 @@
                     </a>
                     <div class="sidebar-content">
                         <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>
+                    CodeFirstAcademy is one of the best for software training. The institute provides world-class education and empowers students with skills
+                         that make them in-demand IT professionals. 
+                        </p>
 
                         <div class="sidebar-btn">
                             <a href="contact.php" class="default-btn">Let’s Talk</a>
@@ -446,7 +448,7 @@
                         <h3>Contact Information</h3>
 
                         <ul class="info-list">
-                            <li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+990-123-4567</a></li>
+                            <li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+91-9970611896 9870611896</a></li>
 
                             <li><i class="ri-mail-line"></i> <a
                                     href="https://templates.envytheme.com/cdn-cgi/l/email-protection#ea8985908faa8d878b8386c4898587"><span
@@ -454,7 +456,7 @@
                                         data-cfemail="3d5e5247587d5a505c5451135e5250">[email&#160;protected]</span></a>
                             </li>
 
-                            <li><i class="ri-map-pin-line"></i> 413 North Las Vegas, NV 89032</li>
+                            <li><i class="ri-map-pin-line"></i>  Sai Samrudhhi, Chinchwade Nagar, Swapnshilp Colony, Pimpri-Chinchwad, Maharashtra 411035</li>
                         </ul>
                     </div>
                     <ul class="sidebar-social-list">

@@ -11,10 +11,12 @@
                         </div> -->
                         <!-- <p>Lorem ipsum dolor sit amet consetetur sadi scing elitr sed diam nonumy.</p> -->
                         <h3>Follow Us</h3>
-
+                        <h4>hello</h4>
                         <ul class="widget-social">
                             <li>
-                                <a href="https://www.facebook.com/EnvyTheme" target="_blank">
+                               
+                                <a href="https://www.facebook.com/profile.php?id=100083792171064" target="_blank">
+                                   
                                     <i class="ri-facebook-fill"></i>
                                 </a>
                             </li>
@@ -31,8 +33,8 @@
                             </li>
 
                             <li>
-                                <a href="https://vimeo.com/" target="_blank">
-                                    <i class="ri-vimeo-fill"></i>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
                                 </a>
                             </li>
 

@@ -45,7 +45,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Codefirst-img.jpeg" alt="image">
+                                    <img src="assets/images/courses/fullstack.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$39</div> -->
                             </div>
@@ -89,7 +89,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Angular.jpeg" alt="image">
+                                    <img src="assets/images/courses/angular.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$49</div> -->
                             </div>
@@ -133,7 +133,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Codefirst-img.jpeg" alt="image">
+                                    <img src="assets/images/courses/react.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$59</div> -->
                             </div>
@@ -176,7 +176,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Graphics-Design.jpeg" alt="image">
+                                    <img src="assets/images/courses/graphic.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$75</div> -->
                             </div>
@@ -221,7 +221,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Codefirst-img.jpeg" alt="image">
+                                    <img src="assets/images/courses/java.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$87</div> -->
                             </div>
@@ -265,7 +265,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Testing.jpeg" alt="image">
+                                    <img src="assets/images/courses/softwareT.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$89</div> -->
                             </div>
@@ -318,7 +318,7 @@
                         <div class="single-courses-box">
                             <div class="courses-image">
                                 <a href="courses-details.html">
-                                    <img src="assets/images/Digital-Marketing.jpeg" alt="image">
+                                    <img src="assets/images/courses/digital.png" alt="image">
                                 </a>
                                 <!-- <div class="price">$89</div> -->
                             </div>
